@@ -1,0 +1,26 @@
+{
+  "name": "triplecyber-first",
+  "version": "1.0.0",
+  "description": "Project to test problem-solving skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrdan/triplecyber-first.git"
+  },
+  "author": "Daniel Mendez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrdan/triplecyber-first/issues"
+  },
+  "homepage": "https://github.com/emrdan/triplecyber-first#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.19",
+    "typescript": "^4.9.5"
+  },
+  "dependencies": {
+    "commander": "^10.0.0"
+  }
+}
