@@ -3,8 +3,8 @@ function isAPrimeNumber(n: number): boolean {
 
   for (let i = 2; i < n; i++) {
     if (n % i === 0) {
-    isPrime = false;
-    return isPrime; // También se puede terminar con break, pero como no tenemos más instrucciones luego del for, no es necesario.
+      isPrime = false;
+      return isPrime; // También se puede terminar con break, pero como no tenemos más instrucciones luego del for, no es necesario.
     }
   }
 
